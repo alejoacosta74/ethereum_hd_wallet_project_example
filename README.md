@@ -5,6 +5,8 @@
 This repository contains the project source code and dependencies required to deploy a simple smart contract (SimpleStorage.sol) in Ropsten test network using a HDWallet to handle keys and addresses.
 Connection to Ropsten is stablished via infura.io
 
+The smart contract *SimpleStorage* is deployed on Ropsten network at address ['0x7146235778181Bc344Ec1e5aab732f88038c6E87'](https://ropsten.etherscan.io/address/0x7146235778181Bc344Ec1e5aab732f88038c6E87)
+
 ## 2. Framework and dependencies
 
 - Source code language: Solidity
